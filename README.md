@@ -20,3 +20,4 @@ La bataille navale est un jeu de strategie qui oppose 2 joueur sur un grille de 
 - attaque() , qui permet d'attaque et qui complete la grille en fonction de ce qui etais present sur la grille avant
 - bateau_coule() , fonction qui verifie si un bateau entier est coule
 
+ 
